@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">设备信息</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_setting">Setting</string>
+    <string name="camouflage">Phigros</string>
+    <string name="science_fiction">设备控制</string>
+    <string name="hello_world">tianxing</string>
+    <string name="special">特殊模式</string>
+</resources>

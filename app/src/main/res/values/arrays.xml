@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string-array name="icons">
+        <item>默认</item>
+        <item>特殊</item>
+        <item>科幻</item>
+        <item>伪装</item>
+    </string-array>
+</resources>
