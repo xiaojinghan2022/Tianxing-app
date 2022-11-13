@@ -1,0 +1,3 @@
+J:/App/tianxing/app/.cxx/Debug/3m6u1p5e/x86_64/CMakeFiles/function.dir
+J:/App/tianxing/app/.cxx/Debug/3m6u1p5e/x86_64/CMakeFiles/edit_cache.dir
+J:/App/tianxing/app/.cxx/Debug/3m6u1p5e/x86_64/CMakeFiles/rebuild_cache.dir
