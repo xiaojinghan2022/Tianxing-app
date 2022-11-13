@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "cnpm": "^8.3.0",
+    "react": "^18.1.0",
+    "react-native": "^0.70.5"
+  },
+  "name": "tianxing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "no"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaojinghan2022/tianxing.git"
+  },
+  "keywords": [
+    "RN"
+  ],
+  "author": "xiaojinghan2022",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaojinghan2022/tianxing/issues"
+  },
+  "homepage": "https://github.com/xiaojinghan2022/tianxing#readme",
+  "description": ""
+}
