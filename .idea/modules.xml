@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tianxing.iml" filepath="$PROJECT_DIR$/.idea/modules/Tianxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Tianxing.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Tianxing.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Tianxing.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Tianxing.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Tianxing.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Tianxing.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Tianxing.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Tianxing.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flutter/Tianxing.flutter.iml" filepath="$PROJECT_DIR$/.idea/modules/flutter/Tianxing.flutter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flutter/Tianxing.flutter.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/flutter/Tianxing.flutter.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flutter/Tianxing.flutter.main.iml" filepath="$PROJECT_DIR$/.idea/modules/flutter/Tianxing.flutter.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flutter/Tianxing.flutter.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/flutter/Tianxing.flutter.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flutter_moudle/Tianxing.flutter_moudle.iml" filepath="$PROJECT_DIR$/.idea/modules/flutter_moudle/Tianxing.flutter_moudle.iml" />
+    </modules>
+  </component>
+</project>

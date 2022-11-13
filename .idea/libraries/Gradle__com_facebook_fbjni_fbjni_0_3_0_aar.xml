@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.fbjni:fbjni:0.3.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-3/1cb8c01a8006fa57b5006bccddda4c19/transformed/fbjni-0.3.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-3/1cb8c01a8006fa57b5006bccddda4c19/transformed/fbjni-0.3.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/modules-2/files-2.1/com.facebook.fbjni/fbjni/0.3.0/dac32a6a3bbda750008291f5c6a442800dfd0c5/fbjni-0.3.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/modules-2/files-2.1/com.facebook.fbjni/fbjni/0.3.0/278212c6afa79e34c253966629a101a8742db1d1/fbjni-0.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
