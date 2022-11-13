@@ -1,0 +1,3 @@
+J:/App/flutter/tianxing/app/.cxx/Debug/5e2c25i6/armeabi-v7a/CMakeFiles/function.dir
+J:/App/flutter/tianxing/app/.cxx/Debug/5e2c25i6/armeabi-v7a/CMakeFiles/edit_cache.dir
+J:/App/flutter/tianxing/app/.cxx/Debug/5e2c25i6/armeabi-v7a/CMakeFiles/rebuild_cache.dir
