@@ -1,0 +1,7 @@
+[
+{
+  "directory": "J:/App/tianxing/app/.cxx/Debug/3m6u1p5e/armeabi-v7a",
+  "command": "J:\\App\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=J:/App/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dfunction_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles\\function.dir\\function.cpp.o -c J:\\App\\tianxing\\app\\src\\main\\cpp\\function.cpp",
+  "file": "J:\\App\\tianxing\\app\\src\\main\\cpp\\function.cpp"
+}
+]
